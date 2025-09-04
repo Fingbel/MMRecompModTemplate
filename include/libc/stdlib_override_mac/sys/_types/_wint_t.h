@@ -1,5 +1,5 @@
-#ifndef __STDLIB_OVERRIDE_MAC_MBSTATE_T_H__
-#define __STDLIB_OVERRIDE_MAC_MBSTATE_T_H__
+#ifndef __STDLIB_OVERRIDE_MAC_WINT_T_H__
+#define __STDLIB_OVERRIDE_MAC_WINT_T_H__
 
 #include "libc/wchar.h"
 
